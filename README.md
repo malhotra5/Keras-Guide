@@ -11,7 +11,7 @@ Requirements include basic understanding of machine learning and neural networks
 Install using pip - 
     pip install "moduleName"
 ## Note
-The code for this repo will be written using the IDLE editor and using Jupyter Notebooks. People who havn't used Jupyter Notebooks often find it hard to understand it's structure and design. Therefore, I can efficiently teach this material to many people without additional learning requirements. 
+The code for this repo will be written using the IDLE editor and Jupyter Notebooks. People who havn't used Jupyter Notebooks often find it hard to understand it's structure and design. Therefore, I can efficiently teach this material to many people without additional learning requirements. 
 ## Topic We Will Cover
 * Numpy
 * Neural Networks
