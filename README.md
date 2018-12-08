@@ -19,3 +19,8 @@ Requirements include basic understanding of machine learning and neural networks
 * Keras Sequentail, Quick Start to efficient Deep Learning
 
 
+## Acknowledgments
+* Resources - 
+    * Stanford Numpy Tutorial (http://cs231n.github.io/python-numpy-tutorial/)
+    * Keras Documentation (https://keras.io/)
+    
