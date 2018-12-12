@@ -32,3 +32,5 @@ The code for this repo will be written using the IDLE editor and Jupyter Noteboo
     * Stanford CS231n (http://cs231n.github.io/python-numpy-tutorial/)
     * Keras Documentation (https://keras.io/)
     
+## Task in progress
+There is still a lot to do and more exciting content to come.
